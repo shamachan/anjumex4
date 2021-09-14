@@ -1,0 +1,275 @@
+*
+{
+    margin: 0;
+    padding: 0;;
+}
+#header{
+    width: 100%;
+    height: 60px;
+
+
+}
+#menubar{
+    float: right;
+
+}
+#menubar ul li{
+    display: inline;
+    margin-right: 20px;
+    list-style: none;
+}
+#menubar ul{
+    margin-top: 20px;
+}
+#menubar a{
+    text-decoration: none;
+    color: black;
+    font-family: serif;
+    font-size: 18px;
+}
+#banner{
+    width: 100%;
+    height: 400px;
+    background-color: cyan;
+}
+#banner img
+{
+    height: 400px;
+    width: 100%;
+}
+.heading
+{
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    font-family: MV Boli;
+
+}
+#box1{
+    width: 31%;
+    height: 400px;
+    float: left;
+    margin-right: 2%;
+}
+#box1 p
+{
+    text-align: center;
+    font-family: MV Boli;
+
+
+
+}
+.para
+{
+    border: 1px solid black;
+    font-size: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 5px;
+    margin-top: 20px;
+
+}
+.para-content
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: MV Boli;
+
+}
+
+.author
+{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: colibri light;
+}
+
+#box2{
+    width: 32%;
+    height: 550px;
+    float: left;
+    margin-right: 2%;
+    
+
+}
+#box2 p
+{
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: MV Boli;
+
+}
+#box2 img
+{
+    height: 488px;
+}
+#box3{
+    width: 33%;
+    height: 400px;
+    
+    float: right;
+
+    
+}
+#box3 img{
+    position: relative;
+    left: 45px;
+    
+}
+
+#button {
+    clear: both;
+    border:1px solid red;
+    width: 20%;
+    margin-left: 40%;
+    border-radius: 50px;
+    padding: 10px 10px 10px 10px; 
+    
+
+ }
+ #button p{
+     text-align: center;
+     color: red;
+     font-family: calibri light;
+     font-size: 18px;
+     
+     
+ }
+ #tittle{
+     text-align: center;
+     padding: 10px;
+     font-size: 25px;
+    font-family: MV Boli;
+
+     
+
+ }
+#banner2{
+    width: 100;
+    height: 450px;
+    
+    clear: both;
+}
+#banner2 img{
+    width: 80%;
+    margin-left: 7%;
+    margin-bottom: 30px;
+    height: 410px;
+}
+#intro1{
+    width: 68%;
+    
+    
+    float: left;
+
+}
+#head{
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    font-family: MV Boli;
+
+}
+#intro1 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 25px;
+
+}
+#heading{
+    text-align: center;
+    font-size: 15px;
+    padding: 25px;
+    font-family: MV Boli;
+
+}
+#para{
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+#para p{
+    margin-left:20px ;
+}
+
+.paragraph{
+    margin-left:20px ;
+
+}
+#header{
+    text-align: center;
+    font-family: MV Boli;
+    font-size: 15px;
+    padding: 10px;
+ 
+
+ }
+ #para1{
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-indent: 50px;
+ }
+ #header1{
+    text-align: center;
+    font-family: MV Boli;
+    font-size: 15px;
+    padding: 10px;
+ 
+
+ }
+ #para2{
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-indent: 50px;
+ }
+
+
+    
+
+#intro2{
+    width: 25%;
+    height: 1500px;
+    margin-right: 30px;
+    float: right;
+    border: 1px solid black;
+}
+#head3{
+    text-align: center;
+    font-family: MV Boli;
+    font-size: 15px;
+    padding: 20px;
+
+}
+#intro2 img{
+    margin-left: 40px;
+   }
+#btn{
+    border: 1px solid red;
+    width: 40%;
+    margin-left: 25%;
+    border-radius: 20px;
+    padding: 15px 15px 15px 15px;
+
+}  
+#btn p{
+    text-align: center;
+    color: red;
+} 
+#icons i{
+    font-size: 24px;
+    padding: 25px;
+    /* margin-right: 50px; */
+}
+#icons{
+    margin-top: 20px;
+    /* width: 95%;
+    margin: 0 auto; */
+}
